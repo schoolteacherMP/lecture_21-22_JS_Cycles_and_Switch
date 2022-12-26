@@ -1,1 +1,1 @@
- [Советы по выполнению Базовые ](https://github.com/schoolteacherMP/lecture_13_1_portfolio/blob/main/ImplementationTips.md)  
+ [Задачи ](https://github.com/schoolteacherMP/lecture_21_JS/blob/main/tasks.md)  
