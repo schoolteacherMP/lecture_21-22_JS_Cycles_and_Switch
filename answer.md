@@ -37,9 +37,3 @@
 # Задача 5  
 ![image](https://user-images.githubusercontent.com/113675674/209534923-73c7d363-adf8-4f06-9aa8-3c90b4ddb72c.png)  
 
-
-# Задача 6  
-###
-
-# Задача 7  
-###
