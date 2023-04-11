@@ -1,6 +1,6 @@
 # lecture_21_JS_Циклы
 
-#  [Задачи ](https://github.com/schoolteacherMP/lecture_21_JS/blob/main/tasks.md)  
+#  [Задачи ](https://github.com/schoolteacherMP/lecture_21-22_JS_Cycles_and_Switch/blob/main/tasks.md)  
 Мы рассмотрели 3 вида циклов:
 
 - `while` – Проверяет условие перед каждой итерацией.  
