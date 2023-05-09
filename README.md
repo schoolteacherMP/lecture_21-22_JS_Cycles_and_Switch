@@ -16,3 +16,4 @@
 #  [Задачи ](https://github.com/schoolteacherMP/lecture_21-22_JS_Cycles_and_Switch/blob/main/tasks22.md)  
 
 ![image](https://user-images.githubusercontent.com/113675674/214244245-de23dcb6-bee7-4ff3-a138-9abe2e586838.png)  
+
